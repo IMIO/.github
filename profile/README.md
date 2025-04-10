@@ -6,11 +6,11 @@
 
 # Intercommunale de Mutualisation Informatique et Organisationnelle (iMio)
 
-iMio is a public organization based in Wallonia, Belgium, dedicated to promoting and coordinating the sharing of open-source solutions and services among local authorities in the region. Our mission is to enhance collaboration, reduce costs, and improve the efficiency of public services through innovative software solutions.
+iMio is a public organization based in Wallonia, Belgium, dedicated to developing and coordinating the sharing of open-source solutions and services among local authorities in the region. Our mission is to enhance collaboration, reduce costs, and improve the efficiency of public services through innovative software solutions.
 
 ## Our Solutions
 
-We offer a suite of open-source applications tailored to meet the specific needs of local governments:
+We offer a suite of open-source applications tailored to meet the specific needs of local authorities:
 
 - **iA.Délib**: Manages deliberative assemblies by overseeing each step of the decision-making process, ensuring compliance with local regulations.
 
@@ -34,6 +34,6 @@ iMio collaborates closely with a network of technological SMEs and open-source c
 
 ## Get Involved
 
-We welcome contributions and collaborations from developers, municipalities, and organizations interested in enhancing public service delivery through open-source solutions. Explore our repositories and join us in building innovative tools for local governments.
+We welcome contributions and collaborations from developers, municipalities, and organizations interested in enhancing public service delivery through open-source solutions. Explore our repositories and join us in building innovative tools for local authorities.
 
 For more information, visit our website: [https://www.imio.be](https://www.imio.be)
