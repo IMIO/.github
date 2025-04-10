@@ -16,6 +16,8 @@ We offer a suite of open-source applications tailored to meet the specific needs
 
 - **iA.Docs**: Provides electronic document management, facilitating efficient handling and storage of municipal documents.
 
+- **iA.Smartweb**: Provides municipal websites, allowing administrations to easily manage public-facing content and keep citizens informed.
+
 - **iA.Urban**: Streamlines urban planning and permit management, aiding municipalities in processing applications and maintaining records.
 
 - **iA.Téléservices**: Offers an online portal for citizens to access various public services, enhancing accessibility and convenience.
@@ -23,6 +25,8 @@ We offer a suite of open-source applications tailored to meet the specific needs
 - **iA.AES (Activités Extra-Scolaires)**: Manages extracurricular activities, coordinating schedules, registrations, and communications.
 
 These applications are primarily built using open-source technologies such as Plone, Django, and Odoo, ensuring flexibility and community-driven development.
+
+You can find all our other products on the [iMio website](https://www.imio.be/apps-et-services).
 
 ## Collaboration and Community
 
