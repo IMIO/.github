@@ -1,4 +1,8 @@
-![iMio logo](./IMIO_Logo.png)
+<p align="center">
+  <a href="https://collective.github.io/">
+    <img width="400px" src="./IMIO_Logo.png">
+  </a>
+</p>
 
 # Intercommunale de Mutualisation Informatique et Organisationnelle (iMio)
 
