@@ -6,7 +6,7 @@
 
 # Intercommunale de Mutualisation Informatique et Organisationnelle (iMio)
 
-iMio is a public organization based in Wallonia, Belgium, dedicated to developing and coordinating the sharing of open-source solutions and services among local authorities in the region. Our mission is to enhance collaboration, reduce costs, and improve the efficiency of public services through innovative software solutions.
+iMio is a FLOSS public organization initiated by municipalities in Wallonia, Belgium. iMio is dedicated to developing and coordinating the sharing of open-source solutions and services among local authorities in the region. Our mission is to enhance collaboration, reduce costs, and improve the efficiency of public services through innovative software solutions. It has developed several dedicated public software solutions based on several FLOSS frameworks like the Plone Content Management System or Odoo ERP.
 
 ## Our Solutions
 
