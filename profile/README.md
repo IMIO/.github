@@ -24,6 +24,8 @@ We offer a suite of open-source applications tailored to meet the specific needs
 
 - **iA.AES (Activités Extra-Scolaires)**: Manages extracurricular activities, coordinating schedules, registrations, and communications.
 
+- **iA.Vision**: Enables operational and strategic management of the administration's various projects.
+
 These applications are primarily built using open-source technologies such as Plone, Django, and Odoo, ensuring flexibility and community-driven development.
 
 You can find all our other products on the [iMio website](https://www.imio.be/apps-et-services).
